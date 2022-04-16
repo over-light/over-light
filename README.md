@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @realhardworkingdeveloper@
-- 👀 I’m interested in Blockchain, Machine Learning and Web development. Especially, Crypto Trading bot development.
-- 🌱 I’m currently learning SEO for marketing consultant.
-- 💞️ I’m looking to collaborate on Blockchain development for freelancing career.
-- 📫 How to reach me: realhardworkingdeveloper@gmail.com / https://t.me/realhardworkingdeveloper
+## 👋 realhardworkingdeveloper@gmail.com / https://t.me/realhardworkingdeveloper
+- 👀 Fullstack Blockchain Developer
+- 🌱 Passionate & Trustworthy Freelancer
+- 💞️ Love to communicate, learn from others
+- 📫 <a href="https://www.linkedin.com/in/david-tanaka-066262235/"><img align="left" alt="David Tanaka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+
 
 
 
