@@ -4,7 +4,7 @@
 - 🌱 Passionate & Trustworthy Freelancer
 - 💞️ Love to communicate, learn from others
 
-Master <img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
+#Master <img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
 <br/>
 Hands-on Ethereum Compatible, Solana, Elrond, Polkadot/Substrate Tech
 
