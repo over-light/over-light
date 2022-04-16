@@ -9,8 +9,10 @@ Master &nbsp;&nbsp;<img alt="solidty" width="40px" src="https://github.com/realh
 Hands-on &nbsp;Ethereum Compatible, Solana, Elrond, Polkadot/Substrate Tech
 
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/eth-diamond-black-white.jpg" />
-<img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg" />
+<img align="left" alt="ETH" width="40px" height="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/elrond.png" />
+<img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.png" />
+<img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/substrate.png" />
 
 
 
