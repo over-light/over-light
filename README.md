@@ -4,9 +4,10 @@
 - 🌱 Passionate & Trustworthy Freelancer
 - 💞️ Love to communicate, learn from others
 
-Master &nbsp;&nbsp;<img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
+Master <br>
+<img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
 <br/>
-Hands-on &nbsp;Ethereum Compatible, Solana, Elrond, Polkadot/Substrate Tech
+Hands-on<br>
 
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/eth-diamond-black-white.jpg" />
 <img align="left" alt="ETH" width="40px" height="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg" />
