@@ -3,6 +3,9 @@
 - 👀 Fullstack Blockchain Developer
 - 🌱 Passionate & Trustworthy Freelancer
 - 💞️ Love to communicate, learn from others
+
+Master Solidity, Rust Language
+Hands-on Ethereum Compatible, Solana, Elrond, Polkadot/Substrate Tech
 <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif" width="500" height="320" />
 
 
