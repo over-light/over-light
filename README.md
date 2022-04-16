@@ -4,9 +4,10 @@
 - 🌱 Passionate & Trustworthy Freelancer
 - 💞️ Love to communicate, learn from others
 
-Master Solidity, Rust Language
+Master Solidity, Rust Language <br/>
 Hands-on Ethereum Compatible, Solana, Elrond, Polkadot/Substrate Tech
 
+<img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/eth-diamond-black-white.jpg" />
 
 
 
