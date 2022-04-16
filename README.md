@@ -1,5 +1,4 @@
-## 👋 realhardworkingdeveloper@gmail.com / <a href="https://t.me/realhardworkingdeveloper"><img align="left" alt="David Tanaka's Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" /></a>
-<a href="https://www.linkedin.com/in/david-tanaka-066262235/"><img align="left" alt="David Tanaka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+## 👋 realhardworkingdeveloper@gmail.com / <a href="https://t.me/realhardworkingdeveloper"><img align="left" alt="David Tanaka's Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" /></a> <a href="https://www.linkedin.com/in/david-tanaka-066262235/"><img align="left" alt="David Tanaka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 - 👀 Fullstack Blockchain Developer
 - 🌱 Passionate & Trustworthy Freelancer
