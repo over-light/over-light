@@ -6,9 +6,8 @@
 
 Master <br>
 <img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
-<br/>
-Hands-on<br>
 
+Hands-on<br>
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/eth-diamond-black-white.jpg" />
 <img align="left" alt="ETH" width="40px" height="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/elrond.png" />
