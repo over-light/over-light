@@ -3,7 +3,7 @@
 - 🌱 Passionate & Trustworthy Freelancer
 - 💞️ Love to communicate, learn from others
 - 📫 <a href="https://www.linkedin.com/in/david-tanaka-066262235/"><img align="left" alt="David Tanaka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-
+<img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
