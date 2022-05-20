@@ -7,12 +7,12 @@
 <a href="https://www.linkedin.com/in/david-tanaka-066262235/">
   <img align="left" alt="David Tanaka's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-<p align="left">
+
 - 👀 Fullstack Blockchain Developer <br/>
 - 🌱 Passionate & Trustworthy Freelancer <br/>
 - 💞️ Love to communicate, learn from others <br/>
-<p>
-<img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif" width="480" height="300" />
+<!-- 
+<img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif" width="480" height="300" /> -->
 
 Master <br>
 <img alt="solidty" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/solidity.png" /> <img  alt="rust" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/rust.png" />
