@@ -8,6 +8,8 @@
   <img align="left" alt="David Tanaka's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
+<br/>
+
 - 👀 Fullstack Blockchain Developer <br/>
 - 🌱 Passionate & Trustworthy Freelancer <br/>
 - 💞️ Love to communicate, learn from others <br/>
