@@ -8,9 +8,9 @@
   <img align="left" alt="David Tanaka's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif" width="480" height="300" />
-- 👀 Fullstack Blockchain Developer
-- 🌱 Passionate & Trustworthy Freelancer
-- 💞️ Love to communicate, learn from others
+- 👀 Fullstack Blockchain Developer <br/>
+- 🌱 Passionate & Trustworthy Freelancer <br/>
+- 💞️ Love to communicate, learn from others <br/>
 
 
 Master <br>
