@@ -27,7 +27,7 @@ Hands-on<br>
 <img align="left" alt="ETH" width="40px" height="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.jpg" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/elrond.png" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/index.png" />
-<img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/substrate.png" />
+<img align="left" alt="ETH" width="50px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/substrate.png" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/near.png" />
 <img align="left" alt="ETH" width="40px" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/algorand.jpg" />
 
