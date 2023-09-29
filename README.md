@@ -1,5 +1,5 @@
 - 👀 Fullstack Blockchain Developer <br/>
-- 🌱 Passionate & Trustworthy Freelancer <br/>
+- 🌱 Passionate & Trustworthy <br/>
 - 💞️ Love to communicate, learn from others <br/>
 <!-- 
 <img align="right" alt="GIF" src="https://github.com/realhardworkingdeveloper/realhardworkingdeveloper/blob/main/code.gif" width="480" height="300" /> -->
