@@ -5,7 +5,7 @@
 👨‍💻 Fullstack & Blockchain Developer <br/>
 🚀 Excellence is not a skill. It is an attitude.<br/>
 💙 Trust is the glue of life <br/>
-🤝 Communication is the real work of leadership. <br/>
+🤝 Love and trust fuel meaningful communication. <br/>
 
 
 <p align="center"> 
