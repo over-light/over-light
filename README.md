@@ -43,7 +43,7 @@ Full Stack & Blockchain developer.
         <a href="#"><img src="https://img.shields.io/badge/Laravel-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Node.js-green" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Express-green" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Nest.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Nestjs-green" /></a>
       </td>
       <td valign="center" align="center" width="300px">
         <a href="#"><img src="https://img.shields.io/badge/AWS-green" /></a>
