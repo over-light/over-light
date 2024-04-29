@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
-# Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
  
 
 Full Stack & Blockchain developer.
@@ -13,7 +13,7 @@ Full Stack & Blockchain developer.
     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="60" height="60"/>
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
 </p>
-<p align="center">   
+<p>   
  Hands on: <br />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>  
@@ -55,4 +55,4 @@ Full Stack & Blockchain developer.
 -->
 
 <div align="center"> 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> -->
