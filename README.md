@@ -5,30 +5,89 @@
 
 Full Stack & Blockchain developer.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<a href="https://github.com/Rez4-4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Rust+developer;Competitive+Programmer;ACPC+2022+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-<p> 
-    Master: <br />
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
-    <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="linux" width="60" height="60"/>
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="60" height="60"/>
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
-</p>
-<p>   
- Hands on: <br />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>  
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>     
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>  
-    <img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-    <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="linux" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>    
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
-</p>
+<a href="https://github.com/Rez4-4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Dream+Plan+Excute;Competitive+Programmer;Love+to+communicate;Love+to+learn%20from%20others;Passionate%20|%20Trustworthy%20;&width=500&height=50"></a>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <a href="#"><img src="https://img.shields.io/badge/HTML-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/CSS-green" /</a>
+        <a href="#"><img src="https://img.shields.io/badge/JavaScript-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/TypeScript-green" /</a>
+        <a href="#"><img src="https://img.shields.io/badge/React-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Vue-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Angular-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Bootstrap-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Tailwind-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Next-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Nuxt-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Shopify-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Chart.js-green" /</a>
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <a href="#"><img src="https://img.shields.io/badge/Django-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Python-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Selenium-green" />       </a>
+        <a href="#"><img src="https://img.shields.io/badge/Ruby-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Rails-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/BeautifulSoup-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Pandas-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Numpy-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Flask-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/PHP-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Laravel-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Node.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Express-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Nest.js-green" /></a>
+      </td>
+      <td valign="center" align="center" width="300px">
+        <a href="#"><img src="https://img.shields.io/badge/AWS-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/CI/CD-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Docker-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/TDD-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Jira-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Tezos-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/MySQL-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/NoSQL-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/MongoDB-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-green" /></a>
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <a href="#"><img src="https://img.shields.io/badge/Web3.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Solidity-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Ethers.js-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Rust-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Golang-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Move-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Haskell-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Python-green" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Smart Contract-green" /></a>
+      </td>
+     <td valign="center" align="center" width="300px">
+       <a href="#"><img src="https://img.shields.io/badge/Photoshop-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Adobe XD-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Figma-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Blender-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/WebGL-green" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/Three.js-green" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric-potter&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a></p>
