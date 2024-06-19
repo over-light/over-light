@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=EEEEEE&random=false&width=600&lines=Fullstack+Rust+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=EEEEEE&random=false&width=600&lines=Fullstack+Rust+Engineer)]
 
 <div align="right">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
 
 </div>
 
@@ -37,8 +37,7 @@
 
 <div align="center">
 
-[![Dark GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=over-light&show_icons=true&count_private=true&theme=dark&rank_icon=github&show=prs_merged_percentage&hide=prs)](https://github.com/over-light)
-[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=over-light&langs_count=8&layout=compact&theme=dark)](https://github.com/over-light)
-
-![My GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=over-light&theme=dark)
+[![Dark GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=over-light&show_icons=true&count_private=true&theme=dark&rank_icon=github&show=prs_merged_percentage&hide=prs)]
+[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=over-light&langs_count=8&layout=compact&theme=dark)]
+[![My GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=over-light&theme=dark)]
 </div>
