@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=EEEEEE&random=false&width=600&lines=Fullstack+Rust+Engineer)
@@ -10,13 +13,12 @@
 
 # Skills
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" width="60"/>
+<i class="devicon-rust-original" style="font-size:60px"></i>
+<i class="devicon-solidity-plain" style="font-size:60px"></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p_Wf0A-suX8Q7lJS5ZAXQvHoXFzKiYE3kQ&s" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="60"/>
-<img src="https://actix.rs/img/logo.png" width="60"/>
 <img src="https://www.anchor-lang.com/logo.png" width="60"/>
 <img src="https://use.ink/img/text-white.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
@@ -30,9 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="60"/>
-<img src="https://cryptologos.cc/logos/near-protocol-near-logo.png" width="60"/>
 <img src="https://docs.ipfs.io/images/ipfs-logo.svg" width="60"/>
-<img src="https://cryptologos.cc/logos/stellar-xlm-logo.png" width="60"/>
 </p>
 
 <div align="center">
