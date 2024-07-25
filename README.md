@@ -10,7 +10,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=rust,solidity,ts,py,r,latex,matlab,wasm,rocket,actix,tauri,ipfs,next,gatsby,electron,django,laravel,dotnet,nestjs,tailwind,prisma,graphql,mysql,mongodb,postgresql,redis,nix,docker,githubactions,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,solidity,ts,py,golang,bash,matlab,wasm,rocket,actix,tauri,ipfs,next,electron,django,laravel,dotnet,nestjs,tailwind,prisma,graphql,mysql,mongodb,postgresql,redis,nix,docker,githubactions,kubernetes,aws)](https://skillicons.dev)
 
 # Github Overview
 <div align="center">
